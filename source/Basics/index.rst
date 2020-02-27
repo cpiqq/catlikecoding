@@ -8,7 +8,6 @@ Basics
 
 .. toctree::
    :maxdepth: 2
-   :caption: Tutorials:
 
    Game Objects and Scripts
 
