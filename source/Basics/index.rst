@@ -10,11 +10,7 @@ Basics
    :maxdepth: 2
 
    Game Objects and Scripts
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Building a Graph
+   Mathematical Surfaces
+   Constructing a Fractal
+   Frames Per Second

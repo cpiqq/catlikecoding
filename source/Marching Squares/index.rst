@@ -9,12 +9,8 @@ Marching Squares
 .. toctree::
    :maxdepth: 2
 
-   
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   partitioning space
+   sharing and crossing
+   staying sharp
+   Erecting Walls
+   Being Colorful

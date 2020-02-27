@@ -9,12 +9,10 @@ Advanced Rendering
 .. toctree::
    :maxdepth: 2
 
-   
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Flat and Wireframe Shading
+   Tessellation
+   Surface Displacement
+   Bloom
+   Depth of Field
+   FXAA
+   Triplanar Mapping

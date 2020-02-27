@@ -9,12 +9,9 @@ Tower Defense
 .. toctree::
    :maxdepth: 2
 
-   
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   The Board
+   Enemies
+   Towers
+   Ballistics
+   Scenarios
+   Animation

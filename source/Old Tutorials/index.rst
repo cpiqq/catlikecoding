@@ -9,12 +9,12 @@ Old Tutorials
 .. toctree::
    :maxdepth: 2
 
-   
+   Swirly Pipe
+   Maze
+   Curves and Splines
+   Runner
+   Octahedron Sphere
+   Custom Data
+   Custom List
+   Star
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

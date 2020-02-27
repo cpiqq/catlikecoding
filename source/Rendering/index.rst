@@ -9,12 +9,23 @@ Rendering
 .. toctree::
    :maxdepth: 2
 
-   
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Matrices
+   Shader Fundamentals
+   Combining Textures
+   The First Light
+   Multiple Lights
+   Bumpiness
+   Shadows
+   Reflections
+   Complex Materials
+   More Complexity
+   Transparency
+   Semitransparent Shadows
+   Deferred Shading
+   Fog
+   Deferred Lights
+   Static Lighting
+   Mixed Lighting
+   Realtime GI and LOD Groups
+   GPU Instancing
+   Parallax

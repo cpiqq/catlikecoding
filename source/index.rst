@@ -6,6 +6,12 @@
 Welcome to catlikecoding's documentation!
 =========================================
 
+.. note::
+
+   This document is taken entirely from here: https://catlikecoding.com/unity/tutorials/
+
+   I added some of my own notes for learning.
+
 .. toctree::
    :maxdepth: 2
    :caption: Tutorials:

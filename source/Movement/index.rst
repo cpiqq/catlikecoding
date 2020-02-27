@@ -9,12 +9,8 @@ Movement
 .. toctree::
    :maxdepth: 2
 
-   
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Sliding a Sphere
+   Physics
+   Surface Contact
+   Orbit Camera
+   Custom Gravity

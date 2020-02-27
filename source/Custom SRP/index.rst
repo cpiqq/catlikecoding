@@ -9,12 +9,8 @@ Custom SRP
 .. toctree::
    :maxdepth: 2
 
-   
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Custom Render Pipeline
+   Draw Calls
+   Directional Lights
+   Directional Shadows
+   Baked Light

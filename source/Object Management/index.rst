@@ -9,12 +9,15 @@ Object Management
 .. toctree::
    :maxdepth: 2
 
-   
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Persisting Objects
+   Object Variety
+   Reusing Objects
+   Multiple Scenes
+   Spawn Zones
+   More Game State
+   Configuring Shapes
+   More Factories
+   Shape Behavior
+   Satellites
+   Lifecycle
+   More Complex Levels

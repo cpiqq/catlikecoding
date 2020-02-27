@@ -9,12 +9,15 @@ Scriptable Render Pipeline
 .. toctree::
    :maxdepth: 2
 
-   
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Custom Pipeline
+   Custom Shaders
+   Lights
+   Spotlight Shadows
+   Directional Shadows
+   Transparency
+   Reflections
+   Global Illumination
+   Baked Shadows
+   Level of Detail
+   Post-Processing
+   Image Quality
