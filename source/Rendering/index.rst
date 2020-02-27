@@ -6,6 +6,11 @@
 Rendering
 =========================================
 
+A series about understanding Unity's default rendering pipeline. 
+How a mesh turns into pixels that look like real objects. 
+Note that this covers the built-in legacy pipeline, which is on its way out. 
+The concepts and techniques are still useful to know, but the specific approaches can be considered deprecated.
+
 .. toctree::
    :maxdepth: 2
 
